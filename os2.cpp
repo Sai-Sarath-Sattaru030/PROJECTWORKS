@@ -94,7 +94,7 @@ int main()
 			else
 				current_process=prevProcess;
 				if(i==n-1)
-				printf("\n**********************************************************************************************************************************************\n\n");
+				printf("\n*****\n\n");
 				printf("student name\t\tarrival time \t\twait_time\t\tpriority\t\tTurnAroundTime\t\tBurstTime\n\n");
 				
 			
